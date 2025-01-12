@@ -1,4 +1,5 @@
 scr_init_sprite_array();
+scr_init_array();
 card_drawn = false;
 card_in_hand = false;
 
